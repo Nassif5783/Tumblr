@@ -338,7 +338,7 @@ hr{
         margin-bottom:20px;
     }
     .simg{
-        margin-right:10px;
+        display: none;
         
     }
      .blogo{
@@ -361,6 +361,7 @@ hr{
      .seimg{
         width:45px;
         height:45px;
+         margin-right:10px;
         margin-left:310px;
         margin-top:10px;
     
