@@ -338,7 +338,8 @@ hr{
         margin-bottom:20px;
     }
     .simg{
-        display:none;
+        margin-right:10px;
+        
     }
      .blogo{
         width:25px;
@@ -365,7 +366,9 @@ hr{
     
 
      }
+
 }
+
 
      
 
