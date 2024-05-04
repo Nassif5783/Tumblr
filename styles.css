@@ -230,6 +230,7 @@ hr{
     .black{
         display:block;
         position:fixed;
+        height:70px;
     }
     .get{
       display:block;
@@ -266,15 +267,15 @@ hr{
 
     }
     input{
-        width:710px;
-        height:70px;
+        width:500px;
+        height:100px;
         margin-left:50px;
         border-radius:10px; 
         font-size:24px
     }
     .log{
-        width:710px;
-        height:70px;
+        width:500px;
+        height:100px;
         margin-left:50px;
         border-radius:10px;
         font-size:24px;
@@ -312,7 +313,7 @@ hr{
       margin-left:250px;
       margin-right:-100px;
        justify-content: center;
-        display:flex;
+        white-space:nowrap;
         font-size:24px;
     }
     
@@ -325,8 +326,8 @@ hr{
     
     
     .wback{
-        width:710px;
-        height:70px;
+        width:500px;
+        height:100px;
         margin-left:50px;
         border-radius:10px; 
         font-size:24px
@@ -342,15 +343,15 @@ hr{
         
     }
      .blogo{
-        width:25px;
-        height:40px;
+        width:30px;
+        height:50px;
         margin-left:415px;
         margin-top:3px;
 
      }
      .hicon{
-        width:55px;
-        height:55px;
+        width:60px;
+        height:60px;
         margin-right:750px;
         margin-top:-53px;
         margin-left:30px;
@@ -359,8 +360,8 @@ hr{
 
      }
      .seimg{
-        width:45px;
-        height:45px;
+        width:50px;
+        height:50px;
          margin-right:10px;
         margin-left:310px;
         margin-top:10px;
