@@ -247,8 +247,8 @@ hr{
     
     .agree{
         margin-left:20px;
-        
-        text-align: center;
+        margin-right:-280px;
+        text-align:justify;
         font-size:20px;
        
     }
@@ -267,15 +267,15 @@ hr{
 
     }
     input{
-        width:700px;
-        height:70px;
+        width:650px;
+        height:90px;
         margin-left:50px;
         border-radius:10px; 
         font-size:24px
     }
     .log{
-        width:700px;
-        height:70px;
+        width:650px;
+        height:90px;
         margin-left:50px;
         border-radius:10px;
         font-size:24px;
@@ -326,8 +326,8 @@ hr{
     
     
     .wback{
-        width:700px;
-        height:70px;
+        width:650px;
+        height:90px;
         margin-left:50px;
         border-radius:10px; 
         font-size:24px
