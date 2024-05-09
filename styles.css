@@ -310,7 +310,7 @@ hr{
     }
     .password{
     margin-top:30px;
-      margin-left:250px;
+      margin-left:200px;
       margin-right:-100px;
        justify-content: center;
         white-space:nowrap;
@@ -319,6 +319,7 @@ hr{
     
      .play{
         display:block;
+         margin-right:250px;
         
     }
     .tlogo{
@@ -365,8 +366,8 @@ hr{
      .seimg{
         width:47px;
         height:47px;
-         margin-right:30px;
-          margin-left:-100px;
+         margin-right:50px;
+          margin-left:250px;
     
     
 
