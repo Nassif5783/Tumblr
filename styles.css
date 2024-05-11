@@ -249,7 +249,7 @@ hr{
         margin-left:30px;
         margin-right:-230px;
         text-align:center;
-        font-size:17px;
+        font-size:15px;
        
     }
     
@@ -267,15 +267,15 @@ hr{
 
     }
     input{
-        width:450px;
-        height:75px;
+        width:550px;
+        height:70px;
         margin-left:50px;
         border-radius:10px; 
         font-size:28px
     }
     .log{
-        width:450px;
-        height:75px;
+        width:550px;
+        height:70px;
         margin-left:50px;
         border-radius:10px;
         font-size:28px;
@@ -329,7 +329,7 @@ hr{
     
     .wback{
         width:550px;
-        height:75px;
+        height:70px;
         margin-left:50px;
         border-radius:10px; 
         font-size:28px
