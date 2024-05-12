@@ -231,6 +231,7 @@ hr{
         display:block;
         position:fixed;
         height:70px;
+        margin-bottom:50px;
     }
     .get{
       display:block;
@@ -246,10 +247,10 @@ hr{
     
     
     .agree{
-        margin-left:30px;
+        margin-left:10px;
         margin-right:-230px;
         text-align:center;
-        font-size:14px;
+        font-size:16px;
        
     }
     
@@ -279,6 +280,7 @@ hr{
         margin-left:50px;
         border-radius:10px;
         font-size:28px;
+        margin-top:30px;
     }
     .logo{
         width:450px;
@@ -293,7 +295,7 @@ hr{
     .ntumblr{
         font-size:24px;
        white-space: nowrap;
-        margin-left:170px;
+        margin-left:180px;
         margin-right:-50px;
          justify-content: center;
           display:flex;
@@ -310,7 +312,7 @@ hr{
     }
     .password{
     margin-top:30px;
-      margin-left:210px;
+      margin-left:190px;
       margin-right:-100px;
        justify-content: center;
         white-space:nowrap;
@@ -319,7 +321,7 @@ hr{
     
      .play{
         display:block;
-         margin-right:180px;
+         margin-left:180px;
         
     }
     .tlogo{
@@ -337,7 +339,7 @@ hr{
     }
     .sline{
         
-        margin-left:50px;
+        margin-left:80px;
         margin-top:-10px;
         margin-bottom:20px;
     }
