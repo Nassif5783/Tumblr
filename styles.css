@@ -231,6 +231,7 @@ hr{
         display:block;
         position:fixed;
         height:70px;
+        margin-bottom:50px;
         
     }
     .get{
@@ -272,7 +273,7 @@ hr{
         height:69px;
         margin-left:50px;
         border-radius:10px; 
-        font-size:32px
+        font-size:38px
         margin-top:20px;
     }
     .log{
@@ -355,7 +356,7 @@ hr{
         width:22px;
         height:40px;
         margin-left:310px;
-        margin-top:50px;
+        
 
      }
      .hicon{
