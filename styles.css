@@ -273,7 +273,7 @@ hr{
         height:69px;
         margin-left:50px;
         border-radius:10px; 
-        font-size:29px;
+        font-size:25px;
         margin-top:10px;
     }
     .log{
@@ -291,12 +291,12 @@ hr{
        margin-top:-5px;
     }
     .links{
-        font-size:24px;
-        margin-left:130px;
+        font-size:25px;
+        margin-left:170px;
         
     }
     .ntumblr{
-        font-size:24px;
+        font-size:25px;
        white-space: nowrap;
         margin-left:180px;
         margin-right:-50px;
@@ -319,7 +319,7 @@ hr{
       margin-right:-100px;
        justify-content: center;
         white-space:nowrap;
-        font-size:24px;
+        font-size:25px;
     }
     
      .play{
