@@ -292,7 +292,8 @@ hr{
     }
     .links{
         font-size:25px;
-        margin-left:140px;
+        margin-left:155px;
+        font-weight:bold;
         
     }
     .ntumblr{
@@ -347,7 +348,7 @@ hr{
         margin-bottom:20px;
     }
     .sline hr{
-        width:250px;
+        width:230px;
     }
     .simg{
         display: none;
