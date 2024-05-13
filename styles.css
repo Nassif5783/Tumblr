@@ -343,12 +343,12 @@ hr{
     }
     .sline{
         
-        margin-left:35px;
+        margin-left:40px;
         margin-top:-10px;
         margin-bottom:20px;
     }
     .sline hr{
-        width:225px;
+        width:223px;
     }
     .simg{
         display: none;
