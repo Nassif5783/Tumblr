@@ -292,13 +292,13 @@ hr{
     }
     .links{
         font-size:25px;
-        margin-left:170px;
+        margin-left:160px;
         
     }
     .ntumblr{
         font-size:25px;
        white-space: nowrap;
-        margin-left:180px;
+        margin-left:190px;
         margin-right:-50px;
          justify-content: center;
           display:flex;
